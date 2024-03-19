@@ -25,7 +25,7 @@ export const Info = () => {
 
       <nav className={classes.nav}>
         <CustomLink href='https://myjeong19.oopy.io/'>Blog</CustomLink>
-        <CustomLink href='https://myjeong19.oopy.io/'>Github</CustomLink>
+        <CustomLink href='https://github.com/myjeong19'>Github</CustomLink>
       </nav>
     </Container>
   );
